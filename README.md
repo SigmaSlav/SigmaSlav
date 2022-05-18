@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C++, C, Python, and Assembly.
 - 💞️ I’m looking to collaborate on anything involving my interests, but I am willing to try things outside of that.
 - 📫 Contact me at shanesklyar123@gmail.com , I will get back to you as soon as I can.
+- Steam link: https://steamcommunity.com/id/SCHIZOIDLIFTER/
 <!---
 SigmaSlav/SigmaSlav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
